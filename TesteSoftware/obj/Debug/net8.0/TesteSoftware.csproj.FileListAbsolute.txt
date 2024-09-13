@@ -1,0 +1,11 @@
+C:\Users\SENAI3EM\Desktop\MAUI\TesteSoftware\TesteSoftware\bin\Debug\net8.0\TesteSoftware.deps.json
+C:\Users\SENAI3EM\Desktop\MAUI\TesteSoftware\TesteSoftware\bin\Debug\net8.0\TesteSoftware.dll
+C:\Users\SENAI3EM\Desktop\MAUI\TesteSoftware\TesteSoftware\bin\Debug\net8.0\TesteSoftware.pdb
+C:\Users\SENAI3EM\Desktop\MAUI\TesteSoftware\TesteSoftware\obj\Debug\net8.0\TesteSoftware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI3EM\Desktop\MAUI\TesteSoftware\TesteSoftware\obj\Debug\net8.0\TesteSoftware.AssemblyInfoInputs.cache
+C:\Users\SENAI3EM\Desktop\MAUI\TesteSoftware\TesteSoftware\obj\Debug\net8.0\TesteSoftware.AssemblyInfo.cs
+C:\Users\SENAI3EM\Desktop\MAUI\TesteSoftware\TesteSoftware\obj\Debug\net8.0\TesteSoftware.csproj.CoreCompileInputs.cache
+C:\Users\SENAI3EM\Desktop\MAUI\TesteSoftware\TesteSoftware\obj\Debug\net8.0\TesteSoftware.dll
+C:\Users\SENAI3EM\Desktop\MAUI\TesteSoftware\TesteSoftware\obj\Debug\net8.0\refint\TesteSoftware.dll
+C:\Users\SENAI3EM\Desktop\MAUI\TesteSoftware\TesteSoftware\obj\Debug\net8.0\TesteSoftware.pdb
+C:\Users\SENAI3EM\Desktop\MAUI\TesteSoftware\TesteSoftware\obj\Debug\net8.0\ref\TesteSoftware.dll
